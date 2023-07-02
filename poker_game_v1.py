@@ -1,8 +1,3 @@
-# This is a program which acts as a simple poker game; it can read:
-    # which hand type a player has
-    # determines the results of the game (only works between two players at current moment);
-    # ranks the player in leaderboard type style (this ver doesn't account for true draws)
-
 import card_games_toolbox_v1
 
 suits = card_games_toolbox_v1.suits
