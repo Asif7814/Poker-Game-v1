@@ -4,4 +4,4 @@ This is a program which simulates a Poker Game between two players. It displays 
 
 Version 1 of this project is used through the terminal.
 
-Worked on through April 23, 2023 - April 24, 2023.
+Worked on through April 23, 2023 - April 27, 2023.
